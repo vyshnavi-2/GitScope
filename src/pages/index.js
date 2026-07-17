@@ -1,0 +1,7 @@
+export { default as AnalyticsPage } from './AnalyticsPage'
+export { default as ComparePage } from './ComparePage'
+export { default as DashboardPage } from './DashboardPage'
+export { default as FavoritesPage } from './FavoritesPage'
+export { default as HomePage } from './HomePage'
+export { default as NotFoundPage } from './NotFoundPage'
+export { default as RepositoriesPage } from './RepositoriesPage'
